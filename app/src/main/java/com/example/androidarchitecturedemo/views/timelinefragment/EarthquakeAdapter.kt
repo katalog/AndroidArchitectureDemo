@@ -1,3 +1,5 @@
+package com.example.androidarchitecturedemo.views.timelinefragment
+
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.ViewGroup

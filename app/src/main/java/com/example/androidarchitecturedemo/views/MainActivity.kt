@@ -1,6 +1,6 @@
 package com.example.androidarchitecturedemo.views
 
-import EarthquakeAdapter
+import com.example.androidarchitecturedemo.views.timelinefragment.EarthquakeAdapter
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
